@@ -1,1 +1,7 @@
-replacement.txt
+venv/
+__pycache__/
+*.pyc
+uploads/
+.env
+*.zip
+*.pdf
